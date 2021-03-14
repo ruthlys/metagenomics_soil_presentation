@@ -70,7 +70,7 @@ Result:
 </style>
 
 <div class="resp-container">
-    <iframe class="testiframe" src="https://ruthlys.github.io/metagenomics_soil_presentation//Presentation_13.11.2020.html">
+    <iframe class="testiframe" src="https://ruthlys.github.io/metagenomics_soil_presentation/Presentation_13.11.2020.html">
       Fallback text here for unsupporting browsers, of which there are scant few.
     </iframe>
 </div>
